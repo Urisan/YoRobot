@@ -1,3 +1,5 @@
-function radOutput=deg2rad(degInput)
-pi=3.1416926;
-radOutput=degInput*pi/180;
+function radout= deg2rad(deginput)
+pi=3.141516;
+
+radout=deginput*pi/180;
+end
